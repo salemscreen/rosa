@@ -4,6 +4,8 @@
   <import addon="xbmc.python" version="2.24.0"/>
 </requires>
 <extension point="xbmc.python.pluginsource" library="main.py">
+  <info compressed="false"></info>
+    <checksum></checksum>
   <provides>video</provides>
 </extension>
 <extension point="xbmc.addon.metadata">
