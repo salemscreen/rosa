@@ -6,6 +6,7 @@
 <extension point="xbmc.python.pluginsource" library="main.py">
   <info compressed="false">https://github.com/salemscreen/rosa/blob/master/addon.xml</info>
     <checksum>https://github.com/salemscreen/rosa/blob/master/addon.xml.md5</checksum>
+    <datadir zip="true">https://github.com/salemscreen/rosa/blob/master/plugin.video.rosa.zip</datadir>
   <provides>video</provides>
 </extension>
 <extension point="xbmc.addon.metadata">
